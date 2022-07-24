@@ -8,6 +8,7 @@ $color-5: #141414;
     display: flex;
     justify-content: center;
     align-items: center;
+    transform: scale(1.5);
 }
 
 #arrow {
@@ -45,6 +46,7 @@ $color-5: #141414;
     background-color: $color-3;
     color: $color-4;
     opacity: 0.9;
+    transform: scale(1.5);
 }
 
 #set:hover {
